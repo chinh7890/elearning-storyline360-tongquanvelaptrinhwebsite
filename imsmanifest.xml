@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6TrRhYm6Dzy" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Tổng quan về lập trình website</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Tổng_quan_về_lập_trình_website_ORG">
+    <organization identifier="Tổng_quan_về_lập_trình_website_ORG">
+      <title>Tổng quan về lập trình website</title>
+      <item identifier="storyline_SCO" isvisible="true" identifierref="__6TrRhYm6Dzy_RES">
+        <title>Tổng quan về lập trình website</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6TrRhYm6Dzy_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6mWInCobHtQ_44100_160_0.mp3" />
+      <file href="story_content/6YRLXA010pG_44100_160_0.mp3" />
+      <file href="mobile/5p7HPU1YC50.png" />
+      <file href="mobile/6WGaFvwmpoJ.jpg" />
+      <file href="story_content/6GxxBO6b8fr_44100_160_0.mp3" />
+      <file href="mobile/6PnqT2RULSZ.jpg" />
+      <file href="mobile/6irEpWkyOXT.jpg" />
+      <file href="mobile/66RIjNA02Oe.jpg" />
+      <file href="mobile/68H67CepxAz.png" />
+      <file href="mobile/6Jgcfxs06P3.png" />
+      <file href="story_content/65Gy9V9W2iZ_44100_160_0.mp3" />
+      <file href="story_content/6SaNGHDfwW3_44100_160_0.mp3" />
+      <file href="mobile/61zR1ZW6z6E.png" />
+      <file href="mobile/6Td2FfYW9ci.jpg" />
+      <file href="story_content/5lV8HqjcLjz_44100_160_0.mp3" />
+      <file href="story_content/6RmSNOhxm51_44100_160_0.mp3" />
+      <file href="story_content/6ENfQUYNa3O_44100_160_0.mp3" />
+      <file href="story_content/628pMa8BPwi_44100_160_0.mp3" />
+      <file href="story_content/693yBclPjii_44100_160_0.mp3" />
+      <file href="story_content/5nFiwjvaTI2_44100_160_0.mp3" />
+      <file href="story_content/5ZJckvJSpmS_44100_160_0.mp3" />
+      <file href="story_content/5kXYR2EUlNN_44100_160_0.mp3" />
+      <file href="story_content/6L32eMJd2Q8_44100_160_0.mp3" />
+      <file href="story_content/5XcAyGFx0mm_44100_160_0.mp3" />
+      <file href="story_content/6AcXV4MQ0Av_44100_160_0.mp3" />
+      <file href="story_content/6fdjiLHSK6x_44100_160_0.mp3" />
+      <file href="story_content/5dBq12XisyY_44100_160_0.mp3" />
+      <file href="story_content/5yLGDRrMp4Z_44100_160_0.mp3" />
+      <file href="story_content/6lIDir7HWD4_44100_160_0.mp3" />
+      <file href="story_content/6F3t0qIzBej_44100_160_0.mp3" />
+      <file href="story_content/video_60x7JCNompL_22_160_140x100.mp4" />
+      <file href="mobile/poster_67JRHEayAyX_video_60x7JCNompL_22_160_140x100.jpg" />
+      <file href="story_content/5VbnEVIg0at_44100_160_0.mp3" />
+      <file href="mobile/6e1KVGyUEOR.jpg" />
+      <file href="story_content/6M0G4Jqps8M_44100_160_0.mp3" />
+      <file href="mobile/6lilJXuZlEg.jpg" />
+      <file href="mobile/6GSL7HRh1ql.jpg" />
+      <file href="story_content/6N9Tw8vOeSV_44100_160_0.mp3" />
+      <file href="story_content/62ilKO1H6jh_44100_160_0.mp3" />
+      <file href="story_content/video_5p0Krrqfij9_22_160_140x100.mp4" />
+      <file href="mobile/poster_6BY28HiYbIb_video_5p0Krrqfij9_22_160_140x100.jpg" />
+      <file href="story_content/6HqHZG0avgT_44100_160_0.mp3" />
+      <file href="mobile/poster_6cbHTo4gwpm_video_5p0Krrqfij9_22_160_140x100.jpg" />
+      <file href="mobile/5fD3LW1dvvK.png" />
+      <file href="mobile/6OtVEiHwcBY.png" />
+      <file href="mobile/5cRgFr4YwJL.png" />
+      <file href="mobile/6o4ZVNgw5wu.jpg" />
+      <file href="mobile/5ouMnlZ5oSJ.png" />
+      <file href="mobile/6QrkEixlwqt.png" />
+      <file href="mobile/poster_6OWry5dhFLa_video_5p0Krrqfij9_22_160_140x100.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6g5od6AORDt.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/20004014_Nguyễn Lê Trường Chinh_Lớp Đại học CNTT 2020.pdf" />
+      <file href="mobile/Shape62QqJLi1XD0.png" />
+      <file href="mobile/Shape6p0pSxxWAdw.png" />
+      <file href="mobile/Shape6XZxZpDeMgh.png" />
+      <file href="mobile/Shape6MA2dTsWZGJ.png" />
+      <file href="mobile/Shape6hoH7t7vaBi.png" />
+      <file href="mobile/Shape5oomifSTTy1.png" />
+      <file href="mobile/Shape5nNzPqQksCc.png" />
+      <file href="mobile/Shape6nWBhsiI5Hr.png" />
+      <file href="mobile/Shape5kNMBz3V7sv.png" />
+      <file href="mobile/Shape5w0D4QLY26a.png" />
+      <file href="mobile/Shape6bhHYw7ugRo.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dQHhAAyZt4.js" />
+      <file href="html5/data/js/5iYX72MG6ln.js" />
+      <file href="html5/data/js/5oiacbk4dXc.js" />
+      <file href="html5/data/js/5qm4cP9ZxI2.js" />
+      <file href="html5/data/js/5svlsuc4Rne.js" />
+      <file href="html5/data/js/5tWiTTviZ0g.js" />
+      <file href="html5/data/js/5yXMXwH93EV.js" />
+      <file href="html5/data/js/62YeuoG83jP.js" />
+      <file href="html5/data/js/6CqLe4irH7W.js" />
+      <file href="html5/data/js/6cWxmyi2g0W.js" />
+      <file href="html5/data/js/6Cy1Jj8eEgu.js" />
+      <file href="html5/data/js/6GPmmntZTjs.js" />
+      <file href="html5/data/js/6JEsujCTI5k.js" />
+      <file href="html5/data/js/6LeEhdyJYwj.js" />
+      <file href="html5/data/js/6lkEkAc6HE6.js" />
+      <file href="html5/data/js/6NZPr9g4nrX.js" />
+      <file href="html5/data/js/6pSwZ1Assg9.js" />
+      <file href="html5/data/js/6SGGirtNm3r.js" />
+      <file href="html5/data/js/6ZUTFWgYSVQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
